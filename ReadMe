@@ -1,8 +1,8 @@
 This Branch Contains different design pattern examples
 Main Branch
-	Pattern1 Folder
-		Example1
-		Example2
-	Pattern2 Folder
-		Example1
-		Examplen
+	1. Factory
+		a. PizzaStore
+		b. PetStore
+		c. CoffeStore
+		d. HardDriveStore
+		e. Laptopstore
