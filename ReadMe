@@ -1,8 +1,0 @@
-This Branch Contains different design pattern examples
-Main Branch
-	1. Factory
-		a. PizzaStore
-		b. PetStore
-		c. CoffeStore
-		d. HardDriveStore
-		e. Laptopstore
