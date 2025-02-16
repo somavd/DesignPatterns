@@ -8,6 +8,20 @@ Main Branch
 		e. Laptopstore
 	2. Adapter
 		a. cookSystem
-		b. DuckAnd Turkey
+		b. DuckAndTurkey
 	3. SingleTon
-	4. 
+	4. Abstract Factory
+	5. Builder
+	6. Prototype
+	7. Decorator
+		a. Beverages
+	8. Proxy
+	9. Composite
+	10. Bridge
+	11. Observer
+	12. Visitor
+	13. Iterator
+	14. Strategy
+		a. SortingStrategy
+	15. Chain
+	16. 
